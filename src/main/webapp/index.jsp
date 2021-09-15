@@ -7,6 +7,6 @@
 <title>Ejercicio de clase</title>
 </head>
 <body>
-
+	<p>Este es un ejercicio para la clase del grupo 17 </p>
 </body>
 </html>
